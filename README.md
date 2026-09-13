@@ -11,7 +11,8 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/Leviathanofspark/wardogs-fps-optimizer/releases)
 [![Downloads](https://img.shields.io/github/downloads/Leviathanofspark/wardogs-fps-optimizer/total?style=for-the-badge&color=ff6b35)](https://github.com/Leviathanofspark/wardogs-fps-optimizer/releases)
 [![Stars](https://img.shields.io/github/stars/Leviathanofspark/wardogs-fps-optimizer?style=for-the-badge&color=yellow)](https://github.com/Leviathanofspark/wardogs-fps-optimizer)
-
+<img src="https://img.shields.io/badge/Steam-400k%20players-blue?style=flat-square&logo=steam"/>
+<img src="https://img.shields.io/badge/Sales-1.25M%20copies-green?style=flat-square"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
@@ -94,19 +95,6 @@ The game features:
 </td>
 </tr>
 </table>
-
----
-
-## 📸 Screenshots
-
-<img src="https://img.shields.io/badge/Steam-400k%20players-blue?style=flat-square&logo=steam"/>
-<img src="https://img.shields.io/badge/Sales-1.25M%20copies-green?style=flat-square"/>
-
-
-
-*Left: Vanilla Wardogs. Right: After optimization.*
-
-</div>
 
 ---
 
