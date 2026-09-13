@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Wardogs%20FPS%20Optimizer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Boost%20your%20FPS%20by%20up%20to%2060%25%20in%20Wardogs&descAlignY=58&descSize=18" width="100%"/>
 
