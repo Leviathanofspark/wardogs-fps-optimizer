@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/Leviathanofspark/wardogs-fps-optimizer/releases)
-[![Downloads](https://img.shields.io/github/downloads/Leviathanofspark/wardogs-fps-optimizer/12345?style=for-the-badge&color=ff6b35)](https://github.com/Leviathanofspark/wardogs-fps-optimizer/releases)
+[![Downloads](https://img.shields.io/github/downloads/Leviathanofspark/wardogs-fps-optimizer/total?100/style=for-the-badge&color=ff6b35)](https://github.com/Leviathanofspark/wardogs-fps-optimizer/releases)
 [![Stars](https://img.shields.io/github/stars/Leviathanofspark/wardogs-fps-optimizer?style=for-the-badge&color=yellow)](https://github.com/Leviathanofspark/wardogs-fps-optimizer)
 <img src="https://img.shields.io/badge/Steam-400k%20players-blue?style=flat-square&logo=steam"/>
 <img src="https://img.shields.io/badge/Sales-1.25M%20copies-green?style=flat-square"/>
