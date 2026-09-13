@@ -99,10 +99,10 @@ The game features:
 
 ## 📸 Screenshots
 
-<div align="center">
+<img src="https://img.shields.io/badge/Steam-400k%20players-blue?style=flat-square&logo=steam"/>
+<img src="https://img.shields.io/badge/Sales-1.25M%20copies-green?style=flat-square"/>
 
-<img src="https://i.imgur.com/wY8Y8Y8.png" width="49%" alt="Before Optimization"/>
-<img src="https://i.imgur.com/wY8Y8Y9.png" width="49%" alt="After Optimization"/>
+
 
 *Left: Vanilla Wardogs. Right: After optimization.*
 
